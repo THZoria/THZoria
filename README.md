@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Atmo-Pack
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- My name is Zoria, I'm French and I'm specialized in computer help and modding, i'm currently a student in BTS SIO SISR (Option A Network) being rather DevOps
+- 🍰 I am 21 years old.
+- 🔭 I am currently working on AtmoPack-Vanilla
+- 🌱 I'm currently learning Node-JS
+- 👯 I'm looking to collaborate to create a sharing community in modding.
+- 📮 How to reach me: discord: Zoria#8805 | twitter: @GamersZoria / @SwitchTools
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=THZoria)](https://git.io/streak-stats)
