@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 👯 I'm looking to collaborate to create a sharing community in modding.
 - 📮 How to reach me: discord: Zoria#8805 | twitter: @GamersZoria / @SwitchTools
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=THZoria)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=THZoria&theme=dark&hide_border=true)](https://git.io/streak-stats)
