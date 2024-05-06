@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- My name is Zoria, I'm French and I'm specialized in computer help and modding, i'm currently a student in BTS SIO SISR (Option A Network) being rather DevOps
-- 🍰 I am 21 years old.
-- 🔭 I am currently working on AtmoPack-Vanilla
-- 🌱 I'm currently learning Node-JS
+- My name is Zoria, I'm French and I'm specialized in computer help and modding, I did a BTS SIO SISR (Option A Network), I like system administration but especially helping others.
+I'm currently an IT Helpdesk Technician
+- 🍰 I am 23 years old.
+- 🔭 I'm currently working on various projects including modding and smaller projects such as MangaPlanner.
+- 🌱 I'm currently learning Node-JS and Python
 - 👯 I'm looking to collaborate to create a sharing community in modding.
-- 📮 How to reach me: discord: Zoria#8805 | twitter: @GamersZoria / @SwitchTools
+- 📮 How to reach me: discord: saoriyuki#8805 | twitter: @GamersZoria / @SwitchTools
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=THZoria&theme=dark&hide_border=true)](https://git.io/streak-stats)
